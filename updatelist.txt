@@ -1,0 +1,5 @@
+BuckarooBanzai	08-03-22
+plugins/BuckarooBanzai/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-buckaroobanzai/raw/main/plugininfo.txt	116441
+plugins/Amber/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-buckaroobanzai/raw/main/cardback.jpg	636053
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1q_yg4FFXqbQfUG5UsSPyDPtWtC-2WdXG
